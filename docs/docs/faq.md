@@ -9,7 +9,7 @@ level: secret
 ### Perguntas Frequentes
 
 **1. Como instalo o Monitor?**  
-Siga as instruções na seção de instalação do README. Siga as instruções na seção de instalação do README. Siga as instruções na seção de instalação do README. Siga as instruções na seção de instalação do README. Siga as instruções na seção de instalação do README. Siga as instruções na seção de instalação do README. 
+Siga as instruções na seção de instalação do README.  
 
 **2. O Monitor é compatível com Windows e Linux?**  
 Sim, o Monitor funciona em ambos os sistemas operacionais.

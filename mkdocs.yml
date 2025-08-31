@@ -43,6 +43,7 @@ nav:
   - Início: index.md
   - Visão Geral: visao-geral.md
   - Documentação:
+      - Cenários: docs/cenarios.md
       - Manual do Usuário: docs/manual.md
       - API: docs/api.md
   - Progresso:

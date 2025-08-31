@@ -16,4 +16,4 @@ Este manual fornece instruções detalhadas para utilizar o sistema Monitor.
 
 ### Suporte
 
-Em caso de dúvidas, consulte a [documentação oficial](./index.md) ou entre em contato com o suporte técnico.
+Em caso de dúvidas, consulte a [documentação oficial](../index.md) ou entre em contato com o suporte técnico.

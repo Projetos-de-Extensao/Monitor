@@ -1,15 +1,12 @@
 # Api
 
-## Proposta de conteúdo mock
 
 Abaixo segue um exemplo de como o conteúdo da API pode ser
 estruturado. Essa estrutura pode ser alterada ao longo do
-desenvolvimento da API para melhor se adequare às necessidades
+desenvolvimento da API para melhor se adequar às necessidades
 do sistema.
 
-### Requisição
-
-#### Exemplo de requisição
+## Requisição
 
 ```json
 {
@@ -18,9 +15,7 @@ do sistema.
 }
 ```
 
-### Resposta
-
-#### Exemplo de resposta
+## Resposta
 
 ```json
 {
@@ -30,3 +25,4 @@ do sistema.
         "name": "John Doe"
     }   
 }
+```
