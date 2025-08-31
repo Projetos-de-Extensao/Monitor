@@ -1,20 +1,74 @@
-site_name: Monitor
+site_name: Gestão de Monitorias
+site_url: https://jonh-carvalho.github.io/Monitor/
+repo_url: https://github.com/jonh-carvalho/Monitor
+
 
 theme:
-    name: material
-    palette:
-      - scheme: default
-        toggle:
-            icon: material/brightness-7
-            name: Switch to dark mode
-      - scheme: slate
-        toggle:
-            icon: material/brightness-4
-            name: Switch to light mode
+  name: material
+  favicon: assets/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: slate
+      primary: #193257
+      accent: #FAB90A
+      font-color: #0066FF
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: default
+      primary: #FAB90A 
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: fontawesome/solid/house
+    repo: fontawesome/brands/github
 
-name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
+
+
+
+nav:
+  - Início: index.md
+  - Visão Geral: visao-geral.md
+  - Documentação:
+      - Manual do Usuário: docs/manual.md
+      - API: docs/api.md
+  - Progresso:
+      - Roadmap: docs/roadmap.md
+      - Changelog: docs/changelog.md
+  - Equipe: docs/equipe.md
+  - FAQ: docs/faq.md
+  - Contato: contato.md
 
 plugins:
-    - encryptcontent:
-        global_password: monitor
-        encrypt_all_pages: true
+  - search
+  - encryptcontent:
+      title_prefix: ''
+      global_password: monitor
+      encrypt_all_pages: True
+      summary: 'Obtenha a senha com os responsáveis pelo Projeto'
+      placeholder: 'digite a senha'
+      password_button: True
+      password_button_text: 'Entre'
+      search_index: 'dynamically'
+      webcrypto: true
+      remember_password: True
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Projetos-de-Extensao
+    - icon: fontawesome/brands/debian
+      link: https://www.djangoproject.com/

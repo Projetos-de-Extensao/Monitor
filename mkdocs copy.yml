@@ -1,0 +1,45 @@
+site_name: Monitor
+
+
+
+features:
+    - content.code.copy
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.path
+    - navigation.tabs
+    - navigation.top
+
+theme:
+    features:
+        - content.code.copy
+        - navigation.indexes
+        - navigation.instant
+        - navigation.instant.progress
+        - navigation.path
+        - navigation.tabs
+        - navigation.top
+    font:
+        text: Roboto
+        code: Roboto Mono
+    
+        repo: fontawesome/brands/django
+    name: shadcn
+    palette:
+      - scheme: default
+        toggle:
+            icon: material/brightness-7
+            name: Switch to dark mode
+      - scheme: slate
+        toggle:
+            icon: material/brightness-4
+            name: Switch to light mode
+
+        name: Switch to light mode
+
+plugins:
+    - search:
+    - encryptcontent:
+        global_password: monitor
+        encrypt_all_pages: true

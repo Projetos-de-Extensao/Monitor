@@ -1,4 +1,0 @@
----
-level: secret
----
-# Monitor

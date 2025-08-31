@@ -1,19 +1,35 @@
 ---
+hide:
+  - navigation
+  - toc
 level: secret
 ---
+<div style="float:right">
+    <img src="images/monitor.png" width="400" />
+</div>
+# Monitor
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Documentação do projeto ** Gestão de Monitoria**.
 
-## Commands
+## Visão Geral
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+O App Monitor é uma aplicação para acompanhar o Ciclo de vida do Monitor e Tech Assist. Ele permite gerenciar etapas.
 
-## Project layout
+## Responsáveis
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+O projeto é desenvolvido no âmbito dos Projetos de Extensão dos cursos de Tecnologia do Ibmec/RJ, sob a coordenação do Prof. Thiago Souza. A orientação e organização são realizadas pelo Prof. Jonh Carvalho, nas disciplinas de Projeto Front-End e Projeto Back-End. A concepção e definição de requisitos contam com a participação de Leci Lima (Coordenadora da Casa) e Rebeca Alves (Suporte ao Aluno da Casa).
+
+Participação das Turmas:
+
+- PFE 25.2 8003 - Centro
+- PFE 25.2 8002 - Barra
+- PBE 25.2 8003 - Centro
+- PBE 25.2 8004 - Barra
+- PBE 25.2 8001 - Barra
+
+## Tecnologias Utilizadas
+
+- **Frontend:** React.js
+- **Backend:** Python, Django
+- **Banco de Dados:** Sqlite, MySQL
+- **Hospedagem:** xxx
