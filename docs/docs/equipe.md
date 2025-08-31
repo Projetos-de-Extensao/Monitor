@@ -3,31 +3,30 @@ hide:
 - navigation
 level: secret
 ---
-## Equipe
+# Equipe
 
-### Grupos de Trabalho
+## Grupos de Trabalho [Em Andamento...]
 
 #### Grupo 1: Desenvolvimento Backend
-- **Líder:** Ana Silva
-- **Membros:** Carlos Souza, Pedro Martins
+- **Líder:** 
+- **Membros:** 
 
 #### Grupo 2: Desenvolvimento Frontend
-- **Líder:** Mariana Lima
-- **Membros:** Fernanda Costa, Lucas Alves
+- **Líder:** 
+- **Membros:**s
 
 #### Grupo 3: Qualidade e Testes
-- **Líder:** João Pereira
-- **Membros:** Rafael Dias, Camila Torres
+- **Líder:** 
+- **Membros:** 
 
 #### Grupo 4: UX/UI Design
-- **Líder:** Fernanda Costa
-- **Membros:** Mariana Lima, Beatriz Ramos
+- **Líder:** 
+- **Membros:** 
 
 #### Grupo 5: Gerenciamento de Projeto
-- **Líder:** Ana Silva
-- **Membros:** João Pereira, Carlos Souza
+- **Líder:** 
+- **Membros:** 
 
 ### Contato dos Grupos
 
-- Email geral: equipe@empresa.com
-- Slack: #monitor-equipe
+- Email geral: jonh.carvalho@professores..ibmec.edu.br
