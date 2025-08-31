@@ -10,9 +10,9 @@ Este manual fornece instruções detalhadas para utilizar o sistema Monitor.
 
 ### Funcionalidades Principais
 
-- **Monitoramento em tempo real:** Visualize dados atualizados instantaneamente.
-- **Alertas automáticos:** Receba notificações sobre eventos importantes.
-- **Relatórios personalizados:** Gere relatórios conforme sua necessidade.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Suporte
 

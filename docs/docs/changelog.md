@@ -6,20 +6,20 @@ level: secret
 
 ## Changelog
 
-### [1.2.0] - 2024-06-15
-- Added support for dark mode.
-- Improved performance on dashboard loading.
-- Fixed issue with notification panel not updating.
+### [1.2.0] - 2024-12-01
+- Logged in users can now change their password.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Lorem dolor sit amet, consectetur adipiscing elit.
 
-### [1.1.1] - 2024-05-10
-- Fixed minor bugs in user settings.
-- Updated dependencies.
+### [1.1.1] - 2024-10-10
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Lorem dolor sit amet, consectetur adipiscing elit.
 
-### [1.1.0] - 2024-04-22
-- Introduced new analytics widgets.
-- Enhanced security for login flow.
+### [1.1.0] - 2024-09-22
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+- Lorem dolor sit amet, consectetur adipiscing elit.
 
-### [1.0.0] - 2024-03-01
-- Initial release.
+### [1.0.0] - 2024-08-30
+- Initial release.s
 - Basic monitoring features implemented.
 - User authentication and profile management.

@@ -9,13 +9,11 @@ level: secret
 
 O Monitor está sendo desenvolvido para facilitar o acompanhamento de processos e eventos críticos, fornecendo informações e relatórios.
 
-## Principais Funcionalidades
-
-### **Gestão de Candidaturas a Vagas e Ciclo de Vida do Monitor.**
+## Gestão de Candidaturas a Vagas e Ciclo de Vida do Monitor.
 
 Este cenário foca em resolver os desafios mais imediatos e manuais do processo de contratação, centralizando a divulgação de vagas e a recepção de candidaturas.
 
-#### Funcionalidades Chave:
+### Funcionalidades Chave:
 
 * **Portal de Vagas**: Interface para que se publique as vagas de monitoria, especificando a disciplina, os pré-requisitos, as responsabilidades e o número de vagas.
 
@@ -31,6 +29,6 @@ Este cenário foca em resolver os desafios mais imediatos e manuais do processo 
 
 * **Dashboard de Gestão:** Painel de controle para o CASA com visão geral do número de monitores por curso, disciplina, horas trabalhadas, status dos pagamentos e avaliações pendentes.
 
-## Público-Alvo
+### Público-Alvo
 
 Esta documentação é destinada a desenvolvedores, administradores de sistemas e usuários finais que desejam entender o funcionamento geral do App Monitor.
